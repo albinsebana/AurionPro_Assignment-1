@@ -7,7 +7,7 @@ html {
   .container {
     display: flex;
     max-width: 760px;
-    background-color: #523232;
+    background-color: #FFE47D;
     justify-content: space-between;
     margin: 30px auto;
     box-shadow: 1px 1px 10px rgba(224, 219, 219, 0.596)
@@ -18,21 +18,21 @@ html {
     background-image: url('images/bottomside.png');
     background-size: cover;
     background-position: bottom;
-     background-repeat: no-repeat; 
+    /* background-repeat: no-repeat; 
     bottom: 0;
     right: -133px;;
     width: 310px;
     height: 182px;
     transform: translate(0px,0px) rotate(0deg);
   } */
-  /* .address {  
+  .address {  
     flex-basis: 90%;
-    background-color: #A6A6A6;
+    background-color: #FFE47D;
     color: #FFFFFF;
-  } */
+  }
   .profile {  
     flex-basis: 38%;
-    background-color: #722e2e;
+    background-color: #20454B;
     color: #FFFFFF;
   }
   .profile-photo {
@@ -93,7 +93,7 @@ html {
   .resume {
     padding: 25px 30px;
     flex-basis: 63%;
-    background-color: #208a81;
+    background-color: #FFE47D;
   }
   .about {
     padding-bottom: 30px;
